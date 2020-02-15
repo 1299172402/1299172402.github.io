@@ -1,3 +1,5 @@
+[git使用说明](git使用说明.md)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/1299172402/1299172402.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
