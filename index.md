@@ -1,12 +1,9 @@
-My Files
----
+## My Files
 
-## [git使用说明](git使用说明.md)  
-## [维克多英语](1299172402.github.io/weici/)
+[git使用说明](git使用说明.md)  
+[维克多英语](weici)
 
 
-Github Introduction
----
 
 ## Welcome to GitHub Pages
 
