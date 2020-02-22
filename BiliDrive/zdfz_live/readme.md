@@ -2,4 +2,4 @@
 
 ## [第二周直播课](wuli/2.md)  
 
-[json](wuli/2.json)
+## [第一周直播课](wuli/1.md)
