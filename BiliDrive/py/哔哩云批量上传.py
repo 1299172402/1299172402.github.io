@@ -8,4 +8,3 @@ for i in os.listdir(path):
     os.system(a)
 
 
-
