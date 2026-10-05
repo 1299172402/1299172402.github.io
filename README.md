@@ -8,7 +8,7 @@
 期刊分区表升级版 · 离线镜像
 把 advanced.fenqubiao.com（中科院期刊分区表升级版，2025 年）抓下来的 278 份 MHTML 快照 转换成可托管在 GitHub Pages 的静态站点，并保留原始 MHTML 供核对。
 
-线上站点：https://1299172402.github.io/fenqubiao/
+线上站点：[https://1299172402.github.io/fenqubiao/](https://1299172402.github.io/fenqubiao/)
 
 ## Reply / Discussion
 
