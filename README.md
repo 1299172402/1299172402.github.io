@@ -12,13 +12,6 @@
 
 ## Reply / Discussion
 
-https://github.com/1299172402/1299172402.github.io/issues
-
-- or -
-
-<!-- Twikoo评论区 -->
-<hr>
-<h2>Reply / Discussion</h2>
 <div id="tcomment"></div>
 <script src="https://cdn.jsdelivr.net/npm/twikoo@2.0.12/dist/twikoo.min.js"></script>
 <script>
